@@ -1,0 +1,16 @@
+{
+  "name": "Reaffirmation Agreements in Bankruptcy -- Section 524(c)",
+  "short_name": "reaffirmationagreement.org",
+  "description": "Free guide to reaffirmation agreements under Section 524(c). Learn when to reaffirm a debt in Chapter 7, the risks, court approval requirements, and alternatives.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#0d1117",
+  "theme_color": "#0d1117",
+  "icons": [
+    {
+      "src": "/favicon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml"
+    }
+  ]
+}

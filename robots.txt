@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://reaffirmationagreement.org/sitemap.xml
